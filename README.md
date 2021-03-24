@@ -1,3 +1,3 @@
 # FIZZBUZZ
 
-A Makers pair programming progect to create Fizzbuzz using TDD.
+A Makers pair programming project to create Fizzbuzz using TDD.
